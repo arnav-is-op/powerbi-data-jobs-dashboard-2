@@ -6,6 +6,11 @@ An advanced Power BI dashboard analyzing real-world data job postings — built 
 
 ---
 
+> ⚠️ **Note:** The .pbix file exceeds GitHub's 25MB limit and is not included in this repo.
+> 📥 **Download the Power BI file here:** [data dashboard 2.0 project.pbix](https://drive.google.com/file/d/1jv7g4DwvMAFOun4bpXjpVd1vjtus9GDU/view?usp=sharing)
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -133,3 +138,4 @@ The same dataset has been analyzed across multiple tools — check these out for
 ## 👤 Author
 
 **Arnav Heerakar**
+
